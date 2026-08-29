@@ -4,7 +4,7 @@
 ### High-Speed Multithreaded Documentation Crawler & Scraper
 **استخراج‌کننده و خزنده‌ی پرسرعت و هوشمند مستندات وب**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/qorvhex-lizard/blob/main/qorvhex_lizard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/Lizard/blob/main/qorvhex_lizard.ipynb)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Qorvhex__Channel-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Qorvhex_Channel)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -36,7 +36,7 @@
 The easiest way to use **Qorvhex Lizard** is directly in your browser:
 
 1. Click the **Open In Colab** badge:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/qorvhex-lizard/blob/main/qorvhex_lizard.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/Lizard/blob/main/qorvhex_lizard.ipynb)
    *(Note: Replace `USERNAME/qorvhex-lizard` in the URL with your GitHub username and repository name)*
 2. Configure the parameters in the Colab Form (Target URL, Max Workers, Output File).
 3. Click **Run** (`Ctrl + F9` or Run Cell).
@@ -110,7 +110,7 @@ Join our official Telegram channel for updates, scripts, and tools:
 ساده‌ترین روش برای اجرای **Qorvhex Lizard** استفاده از محیط ابری گوگل کولب است:
 
 1. بر روی دکمه‌ی زیر کلیک کنید:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/qorvhex-lizard/blob/main/qorvhex_lizard.ipynb)  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/Lizard/blob/main/qorvhex_lizard.ipynb)  
    *(نکته: در صورت آپلود روی گیتهاب خود، عبارت `USERNAME/qorvhex-lizard` در لینک را با نام کاربری و نام مخزن خود جایگزین کنید)*
 2. مقادیر مورد نظر را در فرم کولب وارد کنید (آدرس مستندات، نام فایل خروجی، تعداد پردازش همزمان).
 3. دکمه‌ی اجرای سلول را بزنید (`Ctrl + F9`).
