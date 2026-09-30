@@ -11,14 +11,14 @@
 
 <br/>
 
-[**English**](#english-section) | [**فارسی (Persian)**](#persian-section)
+[**English**](#english) | [**فارسی**](#persian)
 
 </div>
 
 ---
 
-<a id="english-section"></a>
-## 🇬🇧 English
+<a id="english"></a>
+## English
 
 **Qorvhex Lizard** is a lightweight, multithreaded documentation crawler designed to recursively traverse developer docs, strip away boilerplate HTML (sidebars, navbars, footers, scripts, and code switchers), and produce a clean, unified text file. Ideal for feeding documentation into LLMs, RAG knowledge bases, or offline reading.
 
@@ -36,7 +36,7 @@
 The easiest way to use **Qorvhex Lizard** is directly in your browser:
 
 1. Click the **Open In Colab** badge:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/Lizard/blob/main/qorvhex_lizard.ipynb)  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qorvhex/Lizard/blob/main/qorvhex_lizard.ipynb)
    *(Note: Replace `USERNAME/qorvhex-lizard` in the URL with your GitHub username and repository name)*
 2. Configure the parameters in the Colab Form (Target URL, Max Workers, Output File).
 3. Click **Run** (`Ctrl + F9` or Run Cell).
@@ -91,8 +91,8 @@ Join our official Telegram channel for updates, scripts, and tools:
 
 <br/>
 
-<a id="persian-section"></a>
-## 🇮🇷 فارسی
+<a id="persian"></a>
+## فارسی
 
 **لیزارد (Qorvhex Lizard)** یک خزنده‌ی پرسرعت و چندنخی (Multithreaded) برای استخراج مستندات و داکیومنت‌های وب است. این ابزار صفحات داکیومنت را به صورت بازگشتی خزش کرده، تمام بخش‌های اضافی مانند منوها، فوترها، سایدبارها، کدهای جاوااسکریپت و تبلیغات را حذف می‌کند و محتوای خالص و تمیز را در قالب یک فایل متنی یکپارچه آماده می‌سازد. این خروجی برای مطالعه آفلاین یا آموزش و تغذیه مدل‌های زبانی (LLM / RAG) بسیار کاربردی است.
 
@@ -126,7 +126,7 @@ git clone https://github.com/USERNAME/qorvhex-lizard.git
 cd qorvhex-lizard
 ```
 
-#### ۲. نصب پیش‌‌نیازها
+#### ۲. نصب پیش‌نیازها
 ```bash
 pip install -r requirements.txt
 ```
